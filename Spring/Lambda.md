@@ -1,7 +1,7 @@
 # ラムダ式について
 
 ## 汚いメモ
-``` LocalClass.java
+``` AnnonymousClass1.java
 public static void main(String[] args) {
     Runnable runner = new Runnnable() { // ←ローカルクラスとして宣言していない
         @Override
@@ -12,7 +12,7 @@ public static void main(String[] args) {
 }
 ```
 
-``` AnnonymousClass.java
+``` Lambda1.java
 public static void main(String[] args) {
     Runnable ruuner = () -> { System.out.println("Hello World!"); };
     ruuner.run;
@@ -21,7 +21,7 @@ public static void main(String[] args) {
 // {}の中身はrunメソッドの実装内容。
 ```
 
-``` Lambda.java
+``` Lambda2.java
 public static void main(String[] args) {    
     method(()->{System.out.println("Hello World!");});
 }
