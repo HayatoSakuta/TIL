@@ -11,3 +11,4 @@ Today I Learned
 - homebrewとは。brew install gradleをした時に疑問に思った。
 - gradleとは
 - gradle init で行われること
+- オフセットとは？タイムゾーンと絡めて説明したい。
