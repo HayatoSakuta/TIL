@@ -1,6 +1,4 @@
 # TIL
 Today I Learned
 
-- [Auth](/Auth/)
-- [Git](/Git/)
-- [Java](/Java/)
+- [Java](/Spring/db.md)
