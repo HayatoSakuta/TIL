@@ -59,3 +59,47 @@ VerifyPincodeServiceで以下を試してみるもうまくいかず
   - 1件のみヒットするはず、の前提があるので、特別考慮はしないか。
 
 ## RestAPIの呼出〜レスポンス返却まで、Spring内部も含めて挙動を理解したい(DispatcherServletなど含めて)
+
+## ポリモーフィズムとは？を改めて整理してみる
+- ポリモーフィズムとは、同名メソッドであっても、オブジェクトごとに異なる処理を呼び出すこと。
+- 継承やインターフェースの実装により実現できる。
+- 継承により実現するケース
+``` java
+public class Food {
+  private String name;
+  public Food(String name){
+    this.name = name;
+  }
+  public void selfIntroduction(String name){
+    System.out.println("This food is " + name);
+  }
+}
+
+public class Meat extends Food {
+  public Meat(Stirng name) {
+    super(name);
+  }
+  @Override
+  public void selfIntroduction(String name){
+    System.out.println("This meat is " + name);
+  }
+}
+
+public class Vegetable extends Food {
+  public Vegetable(Stirng name) {
+    super(name);
+  }
+  @Override
+  public void selfIntroduction(String name){
+    System.out.println("This vegetable is " + name);
+  }
+}
+
+public class Main {
+  public static void main(String[] args) {
+    
+  }
+}
+```
+
+
