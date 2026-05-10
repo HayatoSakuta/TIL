@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/til/Java/20260509_MyBatis TypeHandler.md",
+                "file": "docs/til/GitHubAcions/20260510_usesとrunの違い.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260509_MyBatis TypeHandler"
+              "title": "20260510_usesとrunの違い"
             }
           }
         ]
@@ -178,6 +178,8 @@
   },
   "active": "644661f2ffd19d99",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/til/index.md",
     "docs/til/Java/20260509_MyBatis TypeHandler.md",
     "docs/til/GitHubAcions/20260510_usesとrunの違い.md",
     "docs/til/Auth/20240602_OAuth.md",
@@ -204,8 +206,6 @@
     "docs/til/Java/20260129_要素数0のArrayListはNULLというわけではないよ.md",
     "docs/til/Java/20251225_オブジェクトの参照とGCについて.md",
     "docs/til/Java/20251223_immutableとは？.md",
-    "docs/til/Java/20260103_配列のメモリ構造について.md",
-    "docs/til/Java/20251230_SpringBootのAutoConfigureについて.md",
     "docs/til/Spring/20250823_springmvc-callgraph.drawio.svg",
     "docs/til/文字",
     "docs/til/Git",
