@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/til/GitHubAcions/20260510_usesとrunの違い.md",
+                "file": "docs/til/Git/20260512_git_submodule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260510_usesとrunの違い"
+              "title": "20260512_git_submodule"
             }
           }
         ]
@@ -178,6 +178,12 @@
   },
   "active": "644661f2ffd19d99",
   "lastOpenFiles": [
+    "docs/til/GitHubAcions/20260510_usesとrunの違い.md",
+    "/docs/til/Git/20260512_git_submodule.md",
+    "docs/til/Git/20260512_git_submodule.md",
+    "/docs/til/Git",
+    "/docs/til",
+    "/docs",
     "docs/til/Git/20240509_git_init.md",
     "docs/index.md",
     "scripts/add-book.mjs",
@@ -186,7 +192,6 @@
     "/package.json",
     "/scripts",
     "docs/til/Auth/20240602_OAuth.md",
-    "docs/til/GitHubAcions/20260510_usesとrunの違い.md",
     "docs/til/index.md",
     "docs/til/Java/20260509_MyBatis TypeHandler.md",
     "package.json",
@@ -209,10 +214,6 @@
     "docs/til/Java/20260225_Mapのソート.md",
     "docs/til/Java/20260311_synchronizedによるオブジェクト排他.md",
     "docs/til/Java/20260129_要素数0のArrayListはNULLというわけではないよ.md",
-    "docs/til/Java/20251225_オブジェクトの参照とGCについて.md",
-    "docs/til/Spring/20250823_springmvc-callgraph.drawio.svg",
-    "docs/til/文字",
-    "docs/til/Git",
-    "docs/til/XML"
+    "docs/til/Spring/20250823_springmvc-callgraph.drawio.svg"
   ]
 }
