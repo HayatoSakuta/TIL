@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/til/GitHubAcions/20260510_usesとrunの違い.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "20260510_usesとrunの違い"
             }
           }
         ]
@@ -178,9 +178,15 @@
   },
   "active": "644661f2ffd19d99",
   "lastOpenFiles": [
+    "docs/til/Git/20240509_git_init.md",
+    "docs/index.md",
+    "scripts/add-book.mjs",
+    "scripts",
+    "/scripts/add-book.mjs",
+    "/package.json",
+    "/scripts",
     "docs/til/Auth/20240602_OAuth.md",
     "docs/til/GitHubAcions/20260510_usesとrunの違い.md",
-    "docs/index.md",
     "docs/til/index.md",
     "docs/til/Java/20260509_MyBatis TypeHandler.md",
     "package.json",
@@ -188,7 +194,6 @@
     "docs/til/文字/20260113_UTF-8とは？.md",
     "docs/til/文字/20260113_Unicodeのコードポイント.md",
     "docs/til/文字/20260113_URLエンコード.md",
-    "docs/til/Git/20240509_git_init.md",
     "docs/til/XML/20251227_XML名前空間.md",
     "docs/til/JavaScript/20251223_配列の各要素に特定の処理を施したい場合はmap関数を使用できる.md",
     "docs/til/JavaScript/20251222_JavaScriptの演算子には優先順位がある.md",
@@ -205,15 +210,9 @@
     "docs/til/Java/20260311_synchronizedによるオブジェクト排他.md",
     "docs/til/Java/20260129_要素数0のArrayListはNULLというわけではないよ.md",
     "docs/til/Java/20251225_オブジェクトの参照とGCについて.md",
-    "docs/til/Java/20251223_immutableとは？.md",
     "docs/til/Spring/20250823_springmvc-callgraph.drawio.svg",
     "docs/til/文字",
     "docs/til/Git",
-    "docs/til/XML",
-    "docs/til/JavaScript",
-    "docs/til/Auth",
-    "docs/til/Java",
-    "docs/til/network",
-    "docs/til/GitHubAcions"
+    "docs/til/XML"
   ]
 }
