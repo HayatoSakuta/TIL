@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文字コード技術入門.md",
+                "file": "docs/books/文字コード技術入門.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb350a5111a3a888",
+  "active": "9eaf9eeb6e269c2b",
   "lastOpenFiles": [
     "docs/index.md",
-    "文字コード技術入門.md",
+    "docs/books/文字コード技術入門.md",
     "docs/books",
     "docs/til/Git/20260512_git_submodule.md",
     "docs/til/linux/20260513_sedコマンドについて.md",
