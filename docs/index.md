@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: Today I Learned
       link: /til
+    - theme: brand
+      text: Books
+      link: /books
 
 # features:
 #   - title: Feature A

@@ -12,7 +12,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'TIL', link: '/til/' }
+      { text: 'TIL', link: '/til/' },
+      { text: 'Books', link: '/books/' }
     ],
 
     sidebar: generateSidebar([
@@ -20,6 +21,11 @@ export default defineConfig({
         documentRootPath: 'docs',
         scanStartPath: 'til',
         resolvePath: '/til/',
+      },
+      {
+        documentRootPath: 'docs',
+        scanStartPath: 'books',
+        resolvePath: '/books/',
       }
     ]),
 
