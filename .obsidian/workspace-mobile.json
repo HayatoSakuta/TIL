@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/books/index.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -178,9 +178,9 @@
   },
   "active": "644661f2ffd19d99",
   "lastOpenFiles": [
+    "docs/books/index.md",
     "docs/index.md",
     "docs/books/文字コード技術入門.md",
-    "docs/books/index.md",
     "docs/books/プログラマのための文字コード技術入門.md",
     "/docs/index.md",
     "/docs/books/プログラマのための文字コード技術入門.md",
