@@ -178,16 +178,16 @@
   },
   "active": "644661f2ffd19d99",
   "lastOpenFiles": [
+    "/docs/books/プログラマのための文字コード技術入門.md",
+    "/docs/books",
+    "/docs",
     "docs/books/index.md",
     "docs/index.md",
     "docs/til/index.md",
     "docs/books/文字コード技術入門.md",
     "docs/books/プログラマのための文字コード技術入門.md",
     "/docs/index.md",
-    "/docs/books/プログラマのための文字コード技術入門.md",
     "/docs/books/index.md",
-    "/docs/books",
-    "/docs",
     "docs/books",
     "docs/til/Git/20260512_git_submodule.md",
     "docs/til/linux/20260513_sedコマンドについて.md",
@@ -213,7 +213,6 @@
     "docs/til/Auth/20240611_パスワード保管方法.md",
     "docs/til/Java/20260108_優先度付きキューについて.md",
     "docs/til/Java/20260302_参照型とプリミティブ型の==比較について.md",
-    "docs/til/Java/20260124_Set Integer の重複判定について.md",
     "docs/til/Spring/20250823_springmvc-callgraph.drawio.svg"
   ]
 }
