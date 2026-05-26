@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/til/index.md",
+                "file": "docs/books/プログラマのための文字コード技術入門.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "プログラマのための文字コード技術入門"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "644661f2ffd19d99",
   "lastOpenFiles": [
-    "docs/index.md",
     "docs/books/index.md",
+    "docs/index.md",
+    "docs/til/index.md",
     "docs/books/文字コード技術入門.md",
     "docs/books/プログラマのための文字コード技術入門.md",
     "/docs/index.md",
@@ -202,7 +203,6 @@
     "scripts",
     "/scripts/add-book.mjs",
     "docs/til/Auth/20240602_OAuth.md",
-    "docs/til/index.md",
     "docs/til/Java/20260509_MyBatis TypeHandler.md",
     "docs/til/文字/20260113_UTF-8とは？.md",
     "docs/til/文字/20260113_Unicodeのコードポイント.md",
