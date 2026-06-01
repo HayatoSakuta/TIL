@@ -1,0 +1,3 @@
+# WebTestClient
+
+SpringTest？はWebTestClientを提供している。WebTestClientはHTTPクライアントとしてHTTPリクエストを送信することができる。
