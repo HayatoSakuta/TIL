@@ -193,6 +193,11 @@
   },
   "active": "b2e32c7b92c8f717",
   "lastOpenFiles": [
+    "/docs/til/Java/20260630_Arbitrary.md",
+    "docs/til/Java/20260630_Arbitrary.md",
+    "/docs/til/Java",
+    "/docs/til",
+    "/docs",
     "docs/til/Java/20251225_オブジェクトの参照とGCについて.md",
     "docs/til/Java/20251226_intとIntegerの違い.md",
     "docs/til/Java/20251222_breakはメソッドではないの？.md",
@@ -206,9 +211,6 @@
     "docs/til/Spring/20260601_WebTestClient.md",
     "/docs/til/Spring",
     "/docs/til/Java/20260601_コンストラクタ署名.md",
-    "/docs/til/Java",
-    "/docs/til",
-    "/docs",
     "/docs/books/プログラマのための文字コード技術入門.md",
     "/docs/books",
     "docs/books/index.md",
@@ -227,8 +229,6 @@
     "/docs/til/Git/20260512_git_submodule.md",
     "/docs/til/Git",
     "scripts/add-book.mjs",
-    "docs/til/Java/20260509_MyBatis TypeHandler.md",
-    "docs/til/文字/20260113_UTF-8とは？.md",
     "docs/til/Spring/20250823_springmvc-callgraph.drawio.svg"
   ]
 }
