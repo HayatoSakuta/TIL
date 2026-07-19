@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/til/Java/20260106_int型の範囲、オーバーフローについて.md",
+                "file": "docs/books/プログラマのための文字コード技術入門.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260106_int型の範囲、オーバーフローについて"
+              "title": "プログラマのための文字コード技術入門"
             }
           }
         ],
@@ -193,6 +193,7 @@
   },
   "active": "b2e32c7b92c8f717",
   "lastOpenFiles": [
+    "docs/til/Java/20260106_int型の範囲、オーバーフローについて.md",
     "/docs/til/Java/20260630_Arbitrary.md",
     "docs/til/Java/20260630_Arbitrary.md",
     "/docs/til/Java",
@@ -226,7 +227,6 @@
     "/docs/til/linux",
     "docs/til/linux",
     "docs/til/GitHubAcions/20260510_usesとrunの違い.md",
-    "/docs/til/Git/20260512_git_submodule.md",
     "/docs/til/Git",
     "scripts/add-book.mjs",
     "docs/til/Spring/20250823_springmvc-callgraph.drawio.svg"
